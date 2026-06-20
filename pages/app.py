@@ -1,4 +1,4 @@
-
+"""
 한국 주식 가격 예측 앱 (교육용) - 선형회귀 버전
 - FinanceDataReader로 KRX 데이터 수집
 - 종목 목록 로딩 실패 시 내장 종목 리스트로 대체 (폴백)
@@ -247,3 +247,4 @@ st.markdown(
     unsafe_allow_html=True,
 )
 st.caption("📚 데이터 융합 탐구 프로젝트 | 데이터의 가능성과 한계를 함께 배웁니다.")
+"""
